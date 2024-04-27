@@ -9,6 +9,7 @@
   "dependencies": {
     "roboto-fontface": "*",
     "vue": "^3.4.21",
+    "vue-router": "^4.3.2",
     "vuetify": "^3.5.8"
   },
   "devDependencies": {
